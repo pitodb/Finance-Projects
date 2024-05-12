@@ -14,13 +14,28 @@ The following steps were performed in the analysis:
 
 2. **Computing CAPM Parameters**: Computed the CAPM parameters, alpha and beta, for individual assets using ordinary least squares (OLS) regression.
 
+![image](https://github.com/pitodb/Finance-Projects/assets/112696408/b71fb186-64d3-4f4b-a3d6-bfcf0da762e5)
+
+![image](https://github.com/pitodb/Finance-Projects/assets/112696408/9e939ad0-3571-4405-b16c-888b56f65fb7)
+
+
 3. **Error Term Calculation**: Calculated the error terms between the observed returns and the predicted returns based on the CAPM model.
+![image](https://github.com/pitodb/Finance-Projects/assets/112696408/aa0925f2-8fa2-4ef4-8928-042d060d1076)
+
 
 4. **Portfolio Formation**: Selected four risky assets and formed an equally weighted portfolio.
+![image](https://github.com/pitodb/Finance-Projects/assets/112696408/e67ecd4d-d540-4179-88e7-5463b8b642bf)
+
 
 5. **Portfolio Return Estimation**: Estimated the portfolio return based on the CAPM parameters (alpha and beta) obtained from the individual asset analysis.
+![image](https://github.com/pitodb/Finance-Projects/assets/112696408/d090fc53-3c7e-4e13-8059-f9f0821d6c95)
+
+
 
 6. **CAPM Theory Testing**: Tested the validity of the CAPM theory by comparing the predicted returns with the actual observed returns for the formed portfolio.
+![image](https://github.com/pitodb/Finance-Projects/assets/112696408/de05c807-400f-4c3a-af94-52cf70371ed6)
+
+
 
 ## Considerations
 
