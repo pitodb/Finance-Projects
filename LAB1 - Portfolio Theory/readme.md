@@ -6,7 +6,7 @@ This project explores the application of Modern Portfolio Theory (MPT) to a port
 
 The dataset used in this analysis consists of daily stock prices for the following eight US companies:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c71d727-d9b0-4379-a472-e6292ba76e0a/5c3a1102-4745-4a9d-b5c6-75017e4675dd/Untitled.png)
+![image](https://github.com/pitodb/Finance-Projects/assets/112696408/ce4e3bd8-e42e-49d1-b93d-b90829b2ccdb)
 
 ## Analysis
 
@@ -16,11 +16,12 @@ The following steps were performed in the analysis:
 
 2. **Normalization and Return Calculation**: Normalized the stock prices and computed the daily stock returns for each company.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c71d727-d9b0-4379-a472-e6292ba76e0a/e0d03b01-64bf-4a70-a40d-2f5f50ef5144/Untitled.png)
+![image](https://github.com/pitodb/Finance-Projects/assets/112696408/689d5653-3bf3-4ad4-acf4-3f74e91fbbc2)
 
 3. **Correlation Analysis**: Calculated the correlation matrix for the stock returns and visualized it using a heatmap to identify potential diversification opportunities.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c71d727-d9b0-4379-a472-e6292ba76e0a/5e68ebe0-cdaf-4b97-92c1-d349433ccebb/Untitled.png)
+![image](https://github.com/pitodb/Finance-Projects/assets/112696408/0603b222-e13b-4f1f-84e0-b461f09e9ef0)
+
 
 4. **Portfolio Simulation**: Simulated 1000 portfolios with random weights, computed the returns, variance, and Sharpe ratio for each portfolio.
 
@@ -28,7 +29,8 @@ The following steps were performed in the analysis:
 
 6. **Efficient Frontier**: Defined a function to draw the efficient frontier, which represents the set of portfolios that provide the highest expected return for a given level of risk (variance).
 
-![Screenshot 2024-05-12 at 17.30.26.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c71d727-d9b0-4379-a472-e6292ba76e0a/f4dbf100-5597-496f-b061-1876334cdd2d/Screenshot_2024-05-12_at_17.30.26.png)
+![image](https://github.com/pitodb/Finance-Projects/assets/112696408/22e93eca-2667-42b9-b554-4e0698f57b34)
+
 
 ## Results and Limitations
 
