@@ -1,0 +1,231 @@
+{
+    "Germany": {
+        "AAREAL BANK": "",
+        "COMDIRECT BANK": "",
+        "COMMERZBANK": "",
+        "DT.PFANDBRIEFBANK": "",
+        "PROCREDIT HOLDING": "",
+        "UMWELTBANK": "",
+        "ALLIANZ": "",
+        "DEUTSCHE BANK": ""
+    },
+    "Belgium": {
+        "BANQUE NATIONALE DE BELGIQUE": "",
+        "KBC ANCORA": "",
+        "KBC GROUP": ""
+    },
+    "Cyprus": {
+        "BANK OF CYPRUS HOLDING": "",
+        "HELLENIC BANK": ""
+    },
+    "Estonia": {
+        "LHV GROUP": ""
+    },
+    "Spain": {
+        "BBV.ARGENTARIA": "",
+        "BANCO DE SABADELL": "",
+        "BANCO SANTANDER": "",
+        "BANKIA": "",
+        "BANKINTER 'R'": "",
+        "CAIXABANK": "",
+        "LIBERBANK": "",
+        "UNICAJA BANCO": ""
+    },
+    "Finland": {
+        "AKTIA BANK A": "",
+        "NORDEA BANK": ""
+    },
+    "France": {
+        "BNP PARIBAS": "",
+        "CRCAM ILLE-VIL.CCI": "",
+        "CRCAM NORD CCI": "",
+        "CREDIT AGRICOLE": "",
+        "CREDIT AGRICOLE BRIE PICARDIE": "",
+        "CREDIT AGR.ILE DE FRANCE": "",
+        "CREDIT FONCIER DE MONACO": "",
+        "NATIXIS": "",
+        "SOCIETE GENERALE": "",
+        "BANQUE DE SAVOIE DEAD - 01/04/10": "",
+        "CREDIT AGRICOLE.1": "",
+        "MERSEN (EX LCL)": ""
+    },
+    "Greece": {
+        "ALPHA BANK": "",
+        "ATTICA BANK": "",
+        "BANK OF GREECE": "",
+        "BANK OF PIRAEUS": "",
+        "EUROBANK HOLDINGS": "",
+        "NATIONAL BK.OF GREECE": ""
+    },
+    "Ireland": {
+        "AIB GROUP": "",
+        "BANK OF IRELAND GROUP": "",
+        "PERMANENT TSB GHG.": ""
+    },
+    "Italy": {
+        "BANCA GENERALI": "",
+        "BANCA MONTE DEI PASCHI": "",
+        "BCA.PICCOLO CDT.VALTELL": "",
+        "BANCA PPO.DI SONDRIO": "",
+        "BANCO BPM": "",
+        "BNC.DI DESIO E DELB.": "",
+        "BPER BANCA": "",
+        "CREDITO EMILIANO": "",
+        "FINECOBANK SPA": "",
+        "ILLIMITY BANK": "",
+        "INTESA SANPAOLO": "",
+        "UNICREDIT": "",
+        "UNIONE DI BANCHE ITALIAN": "",
+        "MEDIOBANCA BC.FIN": ""
+    },
+    "Lithuania": {
+        "SIAULIU BANKAS": ""
+    },
+    "Malta": {
+        "BANK OF VALLETTA": "",
+        "FIMBANK": "",
+        "HSBC BANK MALTA": "",
+        "LOMBARD BANK": ""
+    },
+    "Netherlands": {
+        "ABN AMRO BANK": "",
+        "ING GROEP": "",
+        "NIBC HOLDING": "",
+        "VAN LANSCHOT KEMPEN": "",
+        "ASR NEDERLAND": "",
+        "AEGON": "",
+        "DELTA LLOYD GROUP DEAD - DEAD 01/06/17": ""
+    },
+    "Austria": {
+        "BANK FUR TIROL UND VBG.": "",
+        "BAWAG GROUP": "",
+        "BKS BANK": "",
+        "ERSTE GROUP BANK": "",
+        "OBERBANK": "",
+        "OBERBANK PREF.": "",
+        "RAIFFEISEN BANK INTL.": ""
+    },
+    "Portugal": {
+        "BANCO COMR.PORTUGUES 'R'": ""
+    },
+    "Slovenia": {
+        "NOVA LJUBLJANSKA BANK DD NPV": ""
+    },
+    "Slovakia": {
+        "OTP BANKA SLOVENSKO": "",
+        "OTP BANKA SLOVENSKO2": "",
+        "OTP BANKA SLOVENSKO3": "",
+        "TATRA BANKA": "",
+        "TATRA BANKA 2": "",
+        "VSEOBECNA UVEROVA BANKA": ""
+    },
+    "US": {
+        "BANK OF AMERICA": "",
+        "TRUIST FINANCIAL": "",
+        "BOK FINL.": "",
+        "CIT GROUP": "",
+        "CITIZENS FINANCIAL GROUP": "",
+        "COMERICA": "",
+        "COMMERCE BCSH.": "",
+        "CREDICORP": "",
+        "CULLEN FO.BANKERS": "",
+        "DISCOVER FINANCIAL SVS.": "",
+        "EAST WEST BANCORP": "",
+        "FIFTH THIRD BANCORP": "",
+        "FIRST CTZN.BCSH.A": "",
+        "FIRST FINL.BKSH.": "",
+        "FIRST HORIZON NATIONAL": "",
+        "FIRST REPUBLIC BANK": "",
+        "FNB": "",
+        "HUNTINGTON BCSH.": "",
+        "IBERIABANK": "",
+        "KEYCORP": "",
+        "M&T BANK": "",
+        "NEW YORK COMMUNITY BANCORP": "",
+        "PACWEST BANCORP": "",
+        "PEOPLES UNITED FINANCIAL": "",
+        "PINNACLE FINANCIAL PTNS.": "",
+        "PNC FINL.SVS.GP.": "",
+        "POPULAR": "",
+        "PROSPERITY BCSH.": "",
+        "REGIONS FINL.NEW": "",
+        "SIGNATURE BANK": "",
+        "STERLING BANCORP": "",
+        "SVB FINANCIAL GROUP": "",
+        "SYNOVUS FINANCIAL": "",
+        "TCF FINANCIAL": "",
+        "TFS FINANCIAL": "",
+        "TRISTATE CAPITAL HOLDINGS DS": "",
+        "UNITED BANKSHARES": "",
+        "US BANCORP": "",
+        "WEBSTER FINANCIAL": "",
+        "WELLS FARGO & CO": "",
+        "WESTERN ALL.BANCORP.": "",
+        "ZIONS BANCORP.": "",
+        "ACE CASH EXPRESS (BER) DEAD - 10/10/06": "",
+        "ADV.AUTO PARTS": "",
+        "AETNA CAP.L L C PF.MIPS 9 - %TOT RETURN IND": "",
+        "ADVENT CONVERTIBLE AND INCOME FUND": "",
+        "AFLAC": "",
+        "ALLY FINANCIAL": "",
+        "AMERICAN EXPRESS": "",
+        "AMERICAN INTL.GP.": "",
+        "ARES MANAGEMENT A": "",
+        "AXIS CAPITAL HDG.": "",
+        "BANK OF NEW YORK MELLON": "",
+        "BERKSHIRE HILLS BANCORP": "",
+        "CITIGROUP": "",
+        "GOLDMAN SACHS GP.": "",
+        "JP MORGAN CHASE & CO.": "",
+        "LEHMAN BROS.HDG.CAP.TST. III PF.SR.K": "",
+        "MASTERCARD": ""
+    },
+    "UK": {
+        "BANK OF GEORGIA GROUP": "",
+        "BARCLAYS": "",
+        "CLOSE BROTHERS GROUP": "",
+        "VIRGIN MONEY UK": "",
+        "HSBC HOLDINGS": "",
+        "LLOYDS BANKING GROUP": "",
+        "METRO BANK": "",
+        "ROYAL BANK OF SCTL.GP.": "",
+        "STANDARD CHARTERED": "",
+        "TBC BANK GROUP": "",
+        "ADMIRAL GROUP": "",
+        "ALLIANCE TRUST": "",
+        "SAGA GROUP": ""
+    },
+    "Switzerland": {
+        "BANQUE CANTON.DE GENEVE": "",
+        "BANQUE CANTONALE VAUDOISE": "",
+        "BASELLANDSCHAFTLICH E KANTONALBANK": "",
+        "BERNER KANTONALBANK": "",
+        "CEMBRA MONEY BANK N ORD": "",
+        "EFG INTERNATIONAL N": "",
+        "GRAUB KB 'P'": "",
+        "LIECHTENSTEINISCHE LANDESBANK": "",
+        "LUZERNER KANTONALBANK": "",
+        "SCHWEIZERISCHE NAT.BK.": "",
+        "ST GALLER KANTONALBANK": "",
+        "THURGAUER KANTONALBANK": "",
+        "VALIANT 'R'": "",
+        "VONTOBEL HOLDING": "",
+        "VP BANK": "",
+        "WALLISER KANTONALBANK": "",
+        "ZUGER KANTONALBANK": ""
+    },
+    "Norway": {
+        "DNB": "",
+        "MYBANK": "",
+        "NORWEGIAN FINANS HOLDING": "",
+        "SPAREBANK 1 OSTLANDET": "",
+        "SPAREBANK 1 SMN ORDS": "",
+        "SPAREBANK 1 SR-BANK": ""
+    },
+    "Sweden": {
+        "AVANZA BANK HOLDING": "",
+        "SKANDINAVISKA ENSKILDA BANKEN A": "",
+        "SVENSKA HANDELSBANKEN A": "",
+        "SWEDBANK A": ""
+    }
+}
